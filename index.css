@@ -4,3 +4,6 @@ body {
 }
 /* Random comment */
 
+a : hover {
+    color: red;
+}
