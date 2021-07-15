@@ -1,5 +1,3 @@
-function add(a, b) {
-    console.log(a + b);
+while( 1 > 0 ){
+    console.log("Hello");
 }
-
-add(2, 3);
