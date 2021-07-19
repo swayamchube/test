@@ -9,5 +9,4 @@ typedef set<int> si;
 #define mp make_pair
 
 int main () {
-	cout << "Hello, World" << endl;
 }
